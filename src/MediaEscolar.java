@@ -51,7 +51,7 @@ public class MediaEscolar {
             System.out.println("Sua média é: " + df.format(media) + " Sua Media é Otima");
 
         } else if (media == 10 ){
-            System.out.println("Sua média é: " + df.format(media) + " VOCÊ É PIKA");
+            System.out.println("Sua média é: " + df.format(media) + " VOCÊ É BRABO");
         }
         else {
             System.out.println("Valor invalido");
